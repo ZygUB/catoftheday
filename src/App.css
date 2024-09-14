@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+.App {
+  font-family: "Work Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  text-align: center;
+}
+
+div {
+  border: none;
+  border-radius: 40px;
+  background-color: #f5f5f5;
+  justify-content: normal;
+  padding: 40px;
+  margin: 50px;
+}
